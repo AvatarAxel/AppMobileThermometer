@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMobileThermometer</string>
+    <string name="enter_temperature_in_farenheit">Ingresa la temperatura en Farenheit</string>
+    <string name="convert">Convert</string>
+    <string name="enter_a_valid_data">Ingresa un dato valido</string>
+    <string name="result_convert">%s °C</string>
+</resources>
